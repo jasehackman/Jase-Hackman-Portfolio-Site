@@ -130,6 +130,19 @@ section h2 {
   padding: 1%;
 }
 
+.icon {
+  max-height: 100px;
+}
+
+.myModal {
+  max-width: 650px;
+}
+
+.logo {
+  max-width: 300px;
+  max-height: 150px;
+}
+
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
